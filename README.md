@@ -16,4 +16,9 @@
     <th width="350"><p align="left">Можно сравнить просто получая символ и количество его значений, но ведь в теории две мапы нам не нужны;), мб сравнение с 0 тебе что-то даст</p></td>
     <td width="220"><p align="center"><a href="https://github.com/MAZER-shadow/algo/blob/main/Arrays%26Hashing/ValidAnagram.java">ValidAnagram.java</a></p></td>
   </tr>
+  <tr>
+    <td width="220"><p align="center"><a href="https://leetcode.com/problems/two-sum/description/">TwoSum</a></p></td>
+    <th width="350"><p align="left">просто осознай что тебе гарантировали то что совпадение только одно, мб как-то можно прикрутить то что работает быстрее перебора?</p></td>
+    <td width="220"><p align="center"><a href="https://github.com/MAZER-shadow/algo/blob/main/Arrays%26Hashing/TwoSum.java">TwoSum.java</a></p></td>
+  </tr>
 </table>
