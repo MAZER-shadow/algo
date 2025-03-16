@@ -21,7 +21,16 @@
     <th width="350"><p align="left">просто осознай что тебе гарантировали то что совпадение только одно, мб как-то можно прикрутить то что работает быстрее перебора?</p></td>
     <td width="220"><p align="center"><a href="https://github.com/MAZER-shadow/algo/blob/main/Arrays%26Hashing/TwoSum.java">TwoSum.java</a></p></td>
   </tr>
-<tr>
+</table>
+
+## <p align="center"><a href="https://github.com/MAZER-shadow/algo/tree/main/TwoPointers">TwoPointers</a></p>
+<table>
+  <tr>
+    <th width="220">Task</th>	
+    <th width="570">Hint</th>
+    <th width="220">Decision</th>
+  </tr>
+  <tr>
     <td width="220"><p align="center"><a href="https://leetcode.com/problems/valid-palindrome/description/">ValidPalindrome</a></p></td>
     <th width="350"><p align="left"></p>charAt(i) Character.toLowerCase isLetterOrDigit</td>
     <td width="220"><p align="center"><a href="https://github.com/MAZER-shadow/algo/blob/main/TwoPointers/ValidPalindrome.java">ValidPalindrome.java</a></p></td>
